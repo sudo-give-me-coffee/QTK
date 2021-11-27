@@ -1,6 +1,8 @@
 # QTK
 Uma prova de conceito para mostrar como rodar código nativo GTK dentro do Qt Framework :)
 
+> Nota: Como toda PoC que se preze esse projeto está incrivelmente incompleto, não é possível fazer nada útil com ele
+
 # Como isso funciona?
 Basicamente traduz chamadas GTK para Qt, por exemplo:
 
